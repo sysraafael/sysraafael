@@ -1,4 +1,3 @@
-<p align=" left"> <img src="https://komarev.com/ghpvc/?username=sysraafael&label=Profile%20views&color=0e75b6&style=flat" alt="sysraafael" /></p>
 
 <img align="center" alt="Rafael-hello" height="100%" width="2000" src="https://github.com/sysraafael/header.svg/blob/main/header.svg">
 
