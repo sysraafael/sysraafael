@@ -24,18 +24,3 @@
 </div>
 
 ![Snake animation](https://github.com/sysraafael/sysraafael/blob/output/github-contribution-grid-snake.svg)
-
-![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
-
-# Um pouco sobre mim:
-- Meu nome: Rafael Cavalcante
-- Minha idade: 19 Anos
-- Gosto de: Tecnologia, Animes, Filmes e Séries
-
-### Cursos 📚:
-
-- [x] Python e orientação a objetos (85h) Curso realizado pela plataforma: Alura
-- [x] Formação em Iniciante em Programação (79h) Curso realizado pela plataforma Alura
-- [x] Linux II: programas, processos e pacotes (8h) Curso realizado pela plataforma Alura
-- [x] Aprender a aprender: técnicas para seu autodesenvolvimento (8h) Curso realizado pela plataforma Alura
-<hr>
