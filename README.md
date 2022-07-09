@@ -1,7 +1,8 @@
 
 <img align="center" alt="Rafael-hello" height="100%" width="2000" src="https://github.com/sysraafael/header.svg/blob/main/header.svg">
 
-🤓Estudando Phyton
+🤓Estudando sobre TypeScript,NextJS
+
 
 <a href="https://github.com/sysraafael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sysraafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
