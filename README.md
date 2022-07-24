@@ -1,4 +1,5 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+![gif](https://user-images.githubusercontent.com/101739492/180667822-b5f237d0-8439-4555-b79a-6e7a9eee2e05.gif)
 
 🤓Estudando sobre TypeScript,NextJS
 
